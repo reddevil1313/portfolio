@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/reddevil1313/portfolio/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/reddevil1313/portfolio/main/src/images/new_logo.png" width="100" />
 </div>
 <h1 align="center">
   samaysagar.com 
@@ -16,7 +16,7 @@ Status: IN PROGRESS
   </a>
 </p> -->
 
-![demo](https://raw.githubusercontent.com/reddevil1313/portfolio/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/reddevil1313/portfolio/main/src/images/new_demo.png)
 
 ## Credits
 
