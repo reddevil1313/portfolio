@@ -1,7 +1,6 @@
 ---
-date: '1'
+date: '2021-08-01'
 title: 'AnyTutor'
-cover: './demo.png'
 github: 'https://github.com/AllardQuek/AnyTutor'
 external: 'https://any-tutor-allardquek.vercel.app/'
 tech:
@@ -11,6 +10,7 @@ tech:
   - Lambda
   - S3
   - ReactJS
+showInProjects: false
 ---
 
 A ReactJS Website that can convert an audio or text file into a deep fake video with an AI Avatar.

@@ -1,7 +1,6 @@
 ---
-date: '2'
+date: '2021-12-01'
 title: 'ProgrammerError'
-cover: './demo.png'
 github: 'https://github.com/AY2122S1-CS2103-F09-3/tp'
 external: 'https://ay2122s1-cs2103-f09-3.github.io/tp/'
 tech:
@@ -9,6 +8,7 @@ tech:
   - SWE Documentation
   - Java
   - CLI
+showInProjects: false
 ---
 
 ProgrammerError (P|E in short) is an application developed based on the AddressBook Level 3 application.

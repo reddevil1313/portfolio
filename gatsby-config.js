@@ -6,15 +6,14 @@ module.exports = {
     description:
       'Samay Sagar is a software engineer based in Singapore who specializes in developing and designing exceptional, high-quality backend applications and services.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@sagarsamay13',
+    image: '/new_og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
     {
@@ -26,7 +25,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/new_logo.png',
       },
     },
     `gatsby-plugin-offline`,
