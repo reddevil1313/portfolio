@@ -7,4 +7,5 @@ range: 'February 2023 - March 2023'
 url: 'https://jobamax.com'
 ---
 
-Jobamax Job Description
+- Cleaned the backend codebase and created documentation for the APIs an database.
+- Fixed bugs and delpyed the Android and iOS to their respective App Stores.
