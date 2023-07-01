@@ -61,14 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Samay Sagar.</h2>;
-  const three = <h3 className="big-heading">Powering Seamless Experiences Behind the Scenes.</h3>;
+  const three = <h3 className="big-heading">Backend Developer.</h3>;
   const four = (
     <>
       <p>
-        I'm a Year 4 university undergraduate specializing in backend development. With a deep
-        passion for coding and a solid understanding of server-side technologies, I thrive on
-        crafting robust and efficient solutions that power the seamless functioning of modern web
-        applications.
+        I'm a Year 4 university undergraduate specializing in backend development and artificial
+        intelligence. With a deep passion for coding and a solid understanding of server-side
+        technologies, I thrive on crafting robust and efficient solutions that power the seamless
+        functioning of modern web applications.
       </p>
     </>
   );

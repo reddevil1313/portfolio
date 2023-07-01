@@ -2,7 +2,7 @@
 date: '2022-08-01'
 title: 'Full Stack Software Engineer Intern'
 company: 'Ryde'
-location: 'Singapore, SG'
+location: 'Singapore 🇸🇬'
 range: 'December 2021 - July 2022'
 url: 'https://www.rydesharing.com/'
 ---

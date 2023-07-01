@@ -2,7 +2,7 @@
 date: '2023-03-01'
 title: 'Backend Engineer'
 company: 'Jobamax'
-location: 'Paris, FR'
+location: 'Paris 🇫🇷'
 range: 'February 2023 - March 2023'
 url: 'https://jobamax.com'
 ---
