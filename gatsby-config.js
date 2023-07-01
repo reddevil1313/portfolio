@@ -5,7 +5,7 @@ module.exports = {
     title: 'Samay Sagar',
     description:
       'Samay Sagar is a software engineer based in Singapore who specializes in developing and designing exceptional, high-quality backend applications and services.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://sagarsamay.com', // No trailing slash allowed!
     image: '/new_og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
