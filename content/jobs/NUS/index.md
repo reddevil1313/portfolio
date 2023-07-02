@@ -1,7 +1,7 @@
 ---
 date: '2022-05-01'
 title: 'Undergraduate Teaching Assistant'
-company: 'National University of Singapore'
+company: 'NUS'
 location: 'Singapore 🇸🇬'
 range: 'July 2021 - May 2022'
 url: 'https://www.comp.nus.edu.sg/cs/'
