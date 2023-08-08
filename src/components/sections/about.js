@@ -129,7 +129,7 @@ const About = () => {
     'JavaScript (ES6+)',
     'React',
     'Node.js',
-    'Express.js',
+    'Vue.js',
     'C++',
     'PostgreSQL',
     'MongoDB',

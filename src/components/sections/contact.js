@@ -64,12 +64,12 @@ const Contact = () => {
         engineering, especially in the field of backend development and machine learning.
         <br></br>
         <br></br>
-        If you have any questions, feel free to reach out to me! I am always open to discussing new
-        projects, creative ideas or opportunities to be part of your visions.
+        If you have any questions, feel free to reach out to me! I am always open to discuss new
+        projects, creative ideas or opportunities to be part of your vision.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Say Hello!
       </a>
     </StyledContactSection>
   );
