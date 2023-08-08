@@ -5,7 +5,7 @@
   samaysagar.com 
 </h1>
 <p align="center">
-  The first iteration of <a href="https://samaysagar.com" target="_blank">samaysagar.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The first iteration of <a href="https://sagarsamay.com" target="_blank">sagarsamay.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <p align="center">
