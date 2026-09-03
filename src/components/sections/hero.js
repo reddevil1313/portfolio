@@ -65,10 +65,15 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Year 4 computer science undergraduate specializing in backend development and
-        artificial intelligence. With a deep passion for programming and a solid understanding of
-        server-side technologies, I thrive on crafting robust and efficient solutions that power the
-        seamless functioning of modern web applications.
+        I'm a Computer Science graduate from the National University of Singapore (NUS) with a
+        passion for software engineering and backend development, focused on database systems and
+        AI. I most recently worked as a Software Engineer at SAP, where I designed and maintained
+        scalable backend applications, built CI/CD pipelines for automated testing, and collaborated
+        cross-functionally to deliver reliable, high-quality solutions.
+      </p>
+      <p>
+        I'm currently serving Full-time National Service as a Security Trooper and will be open to
+        full-time opportunities from June 2027.
       </p>
     </>
   );
