@@ -7,6 +7,6 @@ range: 'February 2023 - July 2023'
 url: 'https://astreva.com'
 ---
 
-- Led a team of 4 developers, setting sprint tasks and overseeing project progress.
-- Designed and developed backend architecture from scratch using Node.js, Express and PostgreSQL.
-- Implemented the AI and Algorithm for sourcing 500 candidates from online job repositories for each job request.
+- Designed backend architecture from scratch using Node.js and PostgreSQL, enabling efficient data management and scalability for 10,000 data objects monthly.
+- Engineered an LLM-powered sourcing pipeline that surfaced 500 candidates per job request in under an hour, versus roughly a week for manual search.
+- Crafted CI/CD pipelines using Docker and Kubernetes, reducing deployment time by 50%.

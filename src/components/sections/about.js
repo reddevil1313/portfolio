@@ -152,6 +152,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://www.sap.com/sea/index.html">SAP</a>,{' '}
               <a href="https://astreva.com">a french startup</a>,{' '}
               <a href="https://www.rydesharing.com/">a singaporean ride-hailing company</a>, and{' '}
               <a href="https://www.comp.nus.edu.sg/cs/">at one of world's leading universities</a>.
