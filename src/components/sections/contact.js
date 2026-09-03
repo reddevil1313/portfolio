@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I am completing National Service in May 2024 and looking for opportunities in software
+        I am completing National Service in May 2027 and looking for opportunities in software
         engineering, especially in the field of backend development and machine learning.
         <br></br>
         <br></br>
